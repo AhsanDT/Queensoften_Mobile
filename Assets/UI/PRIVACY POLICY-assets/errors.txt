@@ -1,0 +1,1 @@
+[8/26/2020, 12:54:50 PM] layer "searchpng.com-red-lens-flare-png-image-free-download": Expected end of input but "-" found.

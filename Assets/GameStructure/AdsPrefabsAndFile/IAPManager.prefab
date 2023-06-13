@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6426295291362579022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6426295291362579023}
+  - component: {fileID: 6426295291362579120}
+  m_Layer: 0
+  m_Name: IAPManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6426295291362579023
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6426295291362579022}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 993.1699, y: 526.8127, z: -248.49847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6426295291362579120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6426295291362579022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8b32765d67a7384a8228a2bc2023d57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IAPData:
+  - productType: 1
+    ConsumeValue: 0
+    StoreId: com.queenoften.earthsuit
+    purchaseType: 7
+    PlayerPrefID: com.queenoften.earthsuit
+    Purchase: 0
+  - productType: 1
+    ConsumeValue: 0
+    StoreId: com.queenoften.rosesuit
+    purchaseType: 8
+    PlayerPrefID: com.queenoften.rosesuit
+    Purchase: 0
+  - productType: 1
+    ConsumeValue: 0
+    StoreId: com.queenoften.skysuit
+    purchaseType: 9
+    PlayerPrefID: com.queenoften.skysuit
+    Purchase: 0
+  - productType: 1
+    ConsumeValue: 0
+    StoreId: com.queenoften.royalsuit
+    purchaseType: 10
+    PlayerPrefID: com.queenoften.royalsuit
+    Purchase: 0
+  - productType: 0
+    ConsumeValue: 0
+    StoreId: com.queenoften.joker
+    purchaseType: 5
+    PlayerPrefID: com.queenoften.joker
+    Purchase: 0
+  - productType: 0
+    ConsumeValue: 0
+    StoreId: com.queenoften.shuffle
+    purchaseType: 6
+    PlayerPrefID: com.queenoften.shuffle
+    Purchase: 0
+  CoinsList: []

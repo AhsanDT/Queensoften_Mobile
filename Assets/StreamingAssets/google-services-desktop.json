@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "571497703510",
+    "project_id": "queenoften-fe512",
+    "storage_bucket": "queenoften-fe512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571497703510:android:83bfe161374e7cbe61f3f7",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.queenoften"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571497703510-hh03vg71iqo94th0m6d9ubortadol70a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DefaultCompany.queenoften",
+            "certificate_hash": "25b78d1accc65f4205b1392280fbe97cd37c1e1c"
+          }
+        },
+        {
+          "client_id": "571497703510-soepb2gq4kkht4hm0gg8pbeh3hnuq047.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmSKAGrI_eD0tmkanYN-vd6myXDbyZfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571497703510-soepb2gq4kkht4hm0gg8pbeh3hnuq047.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571497703510-eh7eop0c58lvs754rses7mphktsdv1rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.queenoften"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571497703510:android:dd689b502c126bf861f3f7",
+        "android_client_info": {
+          "package_name": "com.torihampton.queenoften"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571497703510-1se95oavuhu256f6iq2eatnv68kdhp9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torihampton.queenoften",
+            "certificate_hash": "25b78d1accc65f4205b1392280fbe97cd37c1e1c"
+          }
+        },
+        {
+          "client_id": "571497703510-soepb2gq4kkht4hm0gg8pbeh3hnuq047.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmSKAGrI_eD0tmkanYN-vd6myXDbyZfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571497703510-soepb2gq4kkht4hm0gg8pbeh3hnuq047.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571497703510-eh7eop0c58lvs754rses7mphktsdv1rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.queenoften"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
